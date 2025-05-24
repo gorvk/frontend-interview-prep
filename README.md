@@ -9,14 +9,14 @@
 
 - React Topics - 
   * hooks
-      * [ ] useState
-      * [ ] useEffect
-      * [ ] useContext
-      * [ ] useReducer
-      * [ ] useMemo
-      * [ ] useCallback
-      * [ ] useRef
-      * [ ] custom hooks
+      * [x] useState
+      * [x] useEffect
+      * [x] useContext
+      * [x] useReducer
+      * [x] useMemo
+      * [x] useCallback
+      * [x] useRef
+      * [x] customxhooks
   
   * higher order components
       * [ ] what is it
@@ -30,12 +30,11 @@
       * [ ] unmounting - componentWillUnmount
   
   * state management
-      * [ ] state / props
-      * [ ] props drilling
-      * [ ] context api
-      * [ ] redux
-      * [ ] redux toolkit
-      * [ ] zustand
+      * [x] state / props
+      * [x] props drilling
+      * [x] context api
+      * [x] redux
+      * [x] redux toolkit
   
   * virtual dom
       * [ ] reconciliation algorithm
@@ -66,8 +65,8 @@
       * [ ] component testing in react
   
   * async tasks
-      * [ ] use effect in depth
-      * [ ] api calls
+      * [x] use effect in depth
+      * [x] api calls
   
   * events
       * [ ] event delegation
