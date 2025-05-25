@@ -61,11 +61,43 @@
         * [x] search query
        * [x] role based access control (protected routes)
 
+   * error handling
+       * [ ] global error handling
+       * [ ] error boundaries
+       * [ ] error handling in forms
+   
+   * form handling
+       * [ ] controlled components
+       * [ ] uncontrolled components
+       * [ ] react hook form
+       * [ ] zod
+
+   * misc
+       * [ ] tree shaking
+       * [ ] hydration
+       * [ ] web workers
+       * [ ] service workers
+       * [ ] cors errors
+       * [ ] use of lighthouse in devtools
+       * [ ] use of performance in devtools
+       * [ ] What is webkit
+       * [ ] Websockets
+       * [ ] Babel
+       * [ ] Webpack
+   
    * life cycle methods of component
        * [ ] mounting - render, componenDidMount
        * [ ] updating - componentDidUpdate
        * [ ] unmounting - componentWillUnmount
- 
+   
+   * programming patterns in react
+       * [ ] reusability
+       * [ ] testability
+       * [ ] modularity
+       * [ ] readability
+       * [ ] design patterns
+       * [ ] SOLID
+
    * events
        * [ ] event delegation
        * [ ] event bubbling
@@ -85,39 +117,9 @@
        * [ ] onMouseEnter
        * [ ] onMouseLeave
        * [ ] onMouseMove
- 
-   * error handling
-       * [ ] global error handling
-       * [ ] error boundaries
-       * [ ] error handling in forms
+
+---
    
-   * form handling
-       * [ ] controlled components
-       * [ ] uncontrolled components
-       * [ ] react hook form
-       * [ ] zod
- 
-   * programming patterns in react
-       * [ ] reusability
-       * [ ] testability
-       * [ ] modularity
-       * [ ] readability
-       * [ ] design patterns
-       * [ ] SOLID
- 
-  * misc
-       * [ ] tree shaking
-       * [ ] hydration
-       * [ ] web workers
-       * [ ] service workers
-       * [ ] cors errors
-       * [ ] use of lighthouse in devtools
-       * [ ] use of performance in devtools
-       * [ ] What is webkit
-       * [ ] Websockets
-       * [ ] Babel
-       * [ ] Webpack
- 
    * SSR, CSR, SSG
        * [ ] server side rendering
        * [ ] client side rendering
@@ -137,7 +139,7 @@
        * [ ] SQL injection
        * [ ] how to prevent them
        * [ ] security best practices
- 
+   
    * styling
        * [ ] tailwind setup
        * [ ] info on bootstrap
