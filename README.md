@@ -34,7 +34,7 @@
       * [x] react fiber
       * [x] how component renders
       * [x] diffing alogorithm
-      * [x] how render works
+      * [x] how render works - trigger, render, commit
   
   * higher order components
       * [ ] what is it
