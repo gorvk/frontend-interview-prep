@@ -42,16 +42,16 @@
       * [x] when to use it
       * [x] how to use it
 
-  * performance improvement strategies
-      * [ ] lazy loading in react
-      * [ ] code splitting/chunking/lazy loading
-      * [ ] suspense
-      * [ ] react.lazy
-      * [ ] asset optimisation
+  * performance improvement strategies - https://www.youtube.com/watch?v=9JDlZxR8gVw
+      * [x] lazy loading in react
+      * [x] code splitting/chunking/lazy loading
+      * [x] suspense
+      * [x] react.lazy
       * [ ] rendering optimisation
-      * [ ] bundler level optimisation
+      * [ ] asset optimisation - preload, prefetch, preconnect
       * [ ] js optimisation
       * [ ] css optimisation
+      * [ ] bundler level optimisation
   
   * life cycle methods of component
       * [ ] mounting - render, componenDidMount
@@ -114,6 +114,8 @@
       * [ ] cors errors
       * [ ] use of lighthouse in devtools
       * [ ] use of performance in devtools
+      * [ ] What is webkit
+      * [ ] Websockets
 
   * SSR, CSR, SSG
       * [ ] server side rendering
