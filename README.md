@@ -30,11 +30,11 @@
       * [x] redux toolkit
   
   * virtual dom
-      * [ ] reconciliation algorithm
-      * [ ] react fiber
-      * [ ] how component renders
-      * [ ] diffing alogorithm
-      * [ ] how render works
+      * [x] reconciliation algorithm
+      * [x] react fiber
+      * [x] how component renders
+      * [x] diffing alogorithm
+      * [x] how render works
   
   * higher order components
       * [ ] what is it
