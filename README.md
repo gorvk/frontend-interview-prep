@@ -17,17 +17,10 @@
       * [x] useCallback
       * [x] useRef
       * [x] customxhooks
-  
-  * higher order components
-      * [ ] what is it
-      * [ ] why to use it
-      * [ ] when to use it
-      * [ ] how to use it
-  
-  * life cycle methods of component
-      * [ ] mounting - render, componenDidMount
-      * [ ] updating - componentDidUpdate
-      * [ ] unmounting - componentWillUnmount
+
+  * async tasks
+      * [x] use effect in depth
+      * [x] api calls
   
   * state management
       * [x] state / props
@@ -43,13 +36,27 @@
       * [ ] diffing alogorithm
       * [ ] how render works
   
-  * SSR, CSR, SSG
-      * [ ] server side rendering
-      * [ ] client side rendering
-      * [ ] static site generation
-      * [ ] difference between them
-      * [ ] when to use which
-      * [ ] what is SEO
+  * higher order components
+      * [ ] what is it
+      * [ ] why to use it
+      * [ ] when to use it
+      * [ ] how to use it
+
+  * performance improvement strategies
+      * [ ] lazy loading in react
+      * [ ] code splitting/chunking/lazy loading
+      * [ ] suspense
+      * [ ] react.lazy
+      * [ ] asset optimisation
+      * [ ] rendering optimisation
+      * [ ] bundler level optimisation
+      * [ ] js optimisation
+      * [ ] css optimisation
+  
+  * life cycle methods of component
+      * [ ] mounting - render, componenDidMount
+      * [ ] updating - componentDidUpdate
+      * [ ] unmounting - componentWillUnmount
   
   * routing
       * [ ] react router
@@ -59,15 +66,7 @@
       * [ ] query params
       * [ ] search query
       * [ ] dynamic routing
-  
-  * testing
-      * [ ] unit testing in react
-      * [ ] component testing in react
-  
-  * async tasks
-      * [x] use effect in depth
-      * [x] api calls
-  
+
   * events
       * [ ] event delegation
       * [ ] event bubbling
@@ -87,26 +86,7 @@
       * [ ] onMouseEnter
       * [ ] onMouseLeave
       * [ ] onMouseMove
-  
-  * programming patterns in react
-      * [ ] reusability
-      * [ ] testability
-      * [ ] modularity
-      * [ ] readability
-      * [ ] design patterns
-      * [ ] SOLID
-  
-  * performance improvement strategies
-      * [ ] lazy loading in react
-      * [ ] code splitting/chunking/lazy loading
-      * [ ] suspense
-      * [ ] react.lazy
-      * [ ] asset optimisation
-      * [ ] rendering optimisation
-      * [ ] bundler level optimisation
-      * [ ] js optimisation
-      * [ ] css optimisation
-  
+
   * error handling
       * [ ] global error handling
       * [ ] error boundaries
@@ -117,7 +97,44 @@
       * [ ] uncontrolled components
       * [ ] react hook form
       * [ ] zod
+
+  * programming patterns in react
+      * [ ] reusability
+      * [ ] testability
+      * [ ] modularity
+      * [ ] readability
+      * [ ] design patterns
+      * [ ] SOLID
+
+ * misc
+      * [ ] tree shaking
+      * [ ] hydration
+      * [ ] web workers
+      * [ ] service workers
+      * [ ] cors errors
+      * [ ] use of lighthouse in devtools
+      * [ ] use of performance in devtools
+
+  * SSR, CSR, SSG
+      * [ ] server side rendering
+      * [ ] client side rendering
+      * [ ] static site generation
+      * [ ] difference between them
+      * [ ] when to use which
+      * [ ] what is SEO  
   
+  * testing
+      * [ ] unit testing in react
+      * [ ] component testing in react
+  
+  * security in react
+      * [ ] XSS
+      * [ ] CSRF
+      * [ ] CORS
+      * [ ] SQL injection
+      * [ ] how to prevent them
+      * [ ] security best practices
+
   * styling
       * [ ] tailwind setup
       * [ ] info on bootstrap
@@ -132,10 +149,3 @@
       * [ ] tools to check accessibility
       * [ ] a11y
   
-  * security in react
-      * [ ] XSS
-      * [ ] CSRF
-      * [ ] CORS
-      * [ ] SQL injection
-      * [ ] how to prevent them
-      * [ ] security best practices
