@@ -37,10 +37,10 @@
       * [x] how render works - trigger, render, commit
   
   * higher order components
-      * [ ] what is it
-      * [ ] why to use it
-      * [ ] when to use it
-      * [ ] how to use it
+      * [x] what is it
+      * [x] why to use it
+      * [x] when to use it
+      * [x] how to use it
 
   * performance improvement strategies
       * [ ] lazy loading in react
