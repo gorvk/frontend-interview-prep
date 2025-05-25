@@ -47,25 +47,24 @@
       * [x] code splitting/chunking/lazy loading
       * [x] suspense
       * [x] react.lazy
-      * [ ] rendering optimisation
-      * [ ] asset optimisation - preload, prefetch, preconnect
-      * [ ] js optimisation
-      * [ ] css optimisation
-      * [ ] bundler level optimisation
+      * [x] rendering optimisation
+      * [x] asset optimisation - preload, prefetch, preconnect
+      * [x] js optimisation
+      * [x] css optimisation
   
+   * routing
+       * [x] react router
+       * [x] how to implement it
+       * [x] how to protect routes
+       * [x] dynamic routing
+        * [x] query params
+        * [x] search query
+       * [x] role based access control (protected routes)
+
    * life cycle methods of component
        * [ ] mounting - render, componenDidMount
        * [ ] updating - componentDidUpdate
        * [ ] unmounting - componentWillUnmount
-   
-   * routing
-       * [ ] react router
-       * [ ] role based access control
-       * [ ] how to implement it
-       * [ ] how to protect routes
-       * [ ] query params
-       * [ ] search query
-       * [ ] dynamic routing
  
    * events
        * [ ] event delegation
@@ -116,6 +115,8 @@
        * [ ] use of performance in devtools
        * [ ] What is webkit
        * [ ] Websockets
+       * [ ] Babel
+       * [ ] Webpack
  
    * SSR, CSR, SSG
        * [ ] server side rendering
