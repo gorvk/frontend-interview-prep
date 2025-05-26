@@ -80,10 +80,12 @@
        * [ ] cors errors
        * [ ] use of lighthouse in devtools
        * [ ] use of performance in devtools
-       * [ ] What is webkit
-       * [ ] Websockets
-       * [ ] Babel
-       * [ ] Webpack
+       * [ ] what is webkit
+       * [ ] websockets
+       * [ ] babel
+       * [ ] webpack
+       * [ ] ES6 features
+       * [ ] ES6 modules
    
    * life cycle methods of component
        * [ ] mounting - render, componenDidMount
