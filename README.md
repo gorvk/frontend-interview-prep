@@ -62,8 +62,8 @@
        * [x] role based access control (protected routes)
 
    * error handling
-       * [ ] global error handling
-       * [ ] error boundaries
+       * [x] global error handling
+       * [x] error boundaries
        * [ ] error handling in forms
    
    * form handling
