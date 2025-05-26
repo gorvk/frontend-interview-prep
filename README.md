@@ -64,12 +64,12 @@
    * error handling
        * [x] global error handling
        * [x] error boundaries
-       * [ ] error handling in forms
+       * [x] error handling in forms
    
    * form handling
-       * [ ] controlled components
-       * [ ] uncontrolled components
-       * [ ] react hook form
+       * [x] controlled components
+       * [x] uncontrolled components
+       * [x] react hook form
        * [ ] zod
 
    * misc
